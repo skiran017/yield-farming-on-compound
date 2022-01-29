@@ -1,0 +1,27 @@
+{
+  "name": "yield-farming-on-conpound",
+  "version": "1.0.0",
+  "description": "Smart contracts for yield farming on Compound",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiran017/yield-farming-on-conpound.git"
+  },
+  "keywords": [],
+  "author": "skiran017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiran017/yield-farming-on-conpound/issues"
+  },
+  "homepage": "https://github.com/skiran017/yield-farming-on-conpound#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1",
+    "@studydefi/money-legos": "^2.4.1"
+  }
+}
